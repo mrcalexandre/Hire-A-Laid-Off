@@ -2,7 +2,7 @@
 
 > **Hire a Laid Off is a project based on a recent project, Hire A BuzzFeeder** made by me, [Alexandre Mouriec](https://alexandremouriec.com), to help people find a new home after being laid off from their company.
 
-![](/Users/Alexandre/Projects/hirealaidoff/CoverREADME.jpg)
+![Hire A Laid Off](https://github.com/mrcalexandre/hirealaidoff/blob/master/CoverREADME.jpg)
 
 When BuzzFeed and other important media companies like the Huffington Post laid off hundreds of employees, I decided to build a website highlighting people, to help them find a new job. After seeing the impact the project had, receiving messages from laid offs being contacted by companies and questions to know if the project was going to be generalized to other company layoffs,  **I am now making the project open-source here on Github**. 
 
